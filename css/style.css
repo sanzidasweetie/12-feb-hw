@@ -1,0 +1,7 @@
+.banner{
+	height: 100vh;
+	background-color: red;
+}
+.banner h1{
+	font-size: 50px;
+}
